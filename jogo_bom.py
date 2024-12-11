@@ -19,7 +19,7 @@ golden_dragon_0 = 0
 golden_dagon = 0
 goldendragon = 0
 golden_dragon = 0
-
+print ('bem-vindo!')
 
 bug_01 = 0
 bug_02 = 0
